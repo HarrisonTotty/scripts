@@ -18,4 +18,4 @@ This script removes all unused (orphaned) pacman packages and cleans the package
 This script "types out" the given character sequence as if it were being typed into the terminal. Supports different typing delays and character seperation. (Requires python3)
 
 ### till.py and register.py
-These scripts were written by me to make one of my summer jobs easier when out register broke. One impliments a register where multiple amounts can be entered, totaled, and then subtracted from a dollar amound given by the customer for the calculation of change. The other script (till.py) was used at the end of the day to calculate a deposit amount (ignoring coins in the deposit). (Requires python3, toilet)
+These scripts were written by me to make one of my summer jobs easier when my register broke. One impliments a register where multiple amounts can be entered, totaled, and then subtracted from a dollar amound given by the customer for the calculation of change. The other script (till.py) was used at the end of the day to calculate a deposit amount (ignoring coins in the deposit). (Requires python3, toilet)
