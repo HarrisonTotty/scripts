@@ -9,7 +9,7 @@ This script acts like a magic 8 ball. When the user asks it a yes/no question (o
 An example set of responces for the "magic8ball.py" script. Each possible responce should have its own line. Repeating a responce increases the likelihood that it will be selected.
 
 ### crawlcheater.py
-This script allows you to backup and restore characters from Dungeon Crawl (Stone Soup), effectively allowing you to cheat without entering wizard mode :P and supports command line arguments as well. (Requires python3)
+This script allows you to backup and restore characters from Dungeon Crawl (Stone Soup), effectively allowing you to cheat without entering wizard mode :P and supports command line arguments as well. Note that you need to edit the "savedir" and "backupdir" variables before running the script! Run with the "-h" argument for more info. (Requires python3)
 
 ### cleanup.py
 This script removes all unused (orphaned) pacman packages and cleans the package cache. (Requires python3, pacman, paccache)
