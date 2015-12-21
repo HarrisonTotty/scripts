@@ -8,6 +8,9 @@ This script acts like a magic 8 ball. When the user asks it a yes/no question (o
 ### responces.txt
 An example set of responces for the "magic8ball.py" script. Each possible responce should have its own line. Repeating a responce increases the likelihood that it will be selected.
 
+### calsync.py
+This script will sync calcurse with a google calender by downloading the associated .ics file and importing it. (Requires python3, calcurse, wget)
+
 ### crawlcheater.py
 This script allows you to backup and restore characters from Dungeon Crawl (Stone Soup), effectively allowing you to cheat without entering wizard mode :P and supports command line arguments as well. Note that you need to edit the "savedir" and "backupdir" variables before running the script! Run with the "-h" argument for more info. (Requires python3)
 
